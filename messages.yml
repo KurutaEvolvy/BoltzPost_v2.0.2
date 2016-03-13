@@ -1,0 +1,27 @@
+## Indonesian Languange
+messages:
+    count: "§4Kamu Punya §e%1$d messages"
+    
+    cleared: "§bSemua Pesan Dihapus"
+    
+    sent: "§3Pesan Terkirim!!"
+    similar: "§4Kamu Sudah Mengirim Yang Seperti Itu"
+    no_player: "%1$s §dTidak Ada Kiriman!"
+    too_many: "§6Kamu Sudah Terkena limit  %1$s!"
+    
+    new_message: "§2%1$s Mengirimkanmu Sebuah Pesan!"
+    
+    not_allowed: "kamu tidak punya izin untuk broadcast pesan."
+ 
+commands:
+    description: "Mengirimkan Pesan Kepada Player."
+    names:
+        post: "post"
+        read: "read"
+        clearall: "clearall"
+        send: "send"
+        sendall: "sendall"
+    usage:
+        usage: "Usage"
+        player: "player"
+        message: "message"
