@@ -4,7 +4,7 @@
      this Plugin For PocketMine Only
          -INDONESIAN LANGUANGE-
 
- # Commands : 
+#    Commands : 
   
   » /post read
      • Read Your Messages In PostMail
@@ -18,12 +18,11 @@
   » /post sendall
      • Send Messages To All Players
 
- #    -Link Download-
+#      -Download Link-
 
-  :
+ https://github.com/KurutaEvolvy/BoltzPost_v2.0.2/releases/download/KurutaProject/BoltzPost_v2.0.2.zip
 
-
- # Info :
+#  Info :
   My Server
  Ip : cyber-Realms.zapto.org
  Port : 19132
