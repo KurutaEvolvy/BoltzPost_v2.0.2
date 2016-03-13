@@ -1,0 +1,22 @@
+#name, main, version and api are required
+name: BoltzPost
+main: Sora\BoltzPost\BoltzPost
+version: 2.0.2
+api: ["1.0.0", "1.13.0"]
+
+load: POSTWORLD
+author: SoraCybers (gibransasuke11@gmail.com)
+description: An Speed Post mail For PocketMine Servers
+website: https://github.com/KurutaEvolvy
+commands:
+ post:
+  description: "mengirim surat kepada Pemain Lain ."
+  usage: "/post < read | clearall | send | sendall >"
+  permission: boltzpost.command.post
+permissions:
+ boltzpost.command.post:
+  description: "Allows player run the post command"
+  default: true
+ boltzmail.command.post.sendall:
+  description: "Allows the user to send a message to all players"
+  default: op
