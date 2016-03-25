@@ -2,7 +2,7 @@
 name: BoltzPost
 main: Sora\BoltzPost\BoltzPost
 version: 2.0.2
-api: ["1.0.0", "1.13.0"]
+api: ["1.0.0", "1.13.0", "2.0.0"]
 
 load: POSTWORLD
 author: SoraCybers (gibransasuke11@gmail.com)
